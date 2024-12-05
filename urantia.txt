@@ -1,0 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+Python is an easy to learn, powerful programming language.
+Python's syntax is clear and readable.
+I like writing Python programs.
+Python programming is fun.

@@ -1,0 +1,7 @@
+ty The program is clean, concise, and well-organized; it ran smoothly, and overall the best output information was given. One improvement would be to avoid repeating variables, and the variable naming could be cleaner.
+fc The program runs effectively and calculates percentages very well. One improvement would be to add error handling and simplify the loop structure to reduce clutter, but overall, a great program that follows all the rules.
+iv The program runs smoothly but is overly complex for the task. To improve it, I would simplify list operations and reduce unnecessary variable assignments to enhance readability.
+2e Effective use of list comprehension but slightly overcomplicated with splits. I would use a direct list rather than string joining/splitting for simpler handling of sums.
+9e The program accomplishes the task but has extra steps that can be optimized and lacks efficient list handling. I would simplify the loop structure and avoid excessive print statements for clearer code and readability.
+d9 Functional program but has unnecessary use of list comprehension for dictionary operations. Instead, use a loop to simplify element counting and focus directly on dictionary use for a more optimized program.
+v4 The program contains logic errors, and some variable names are confusing. I would correct dictionary usage, remove unused variables, and refactor for readability so that other programmers can better understand the program.

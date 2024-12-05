@@ -1,0 +1,7 @@
+65 The code ran great, it was nicely put together with a complete sentence of who the California Assembly representatives are. 
+5s the code ran great, the output also gave a complete sentence of who is the California Assembly representative and what district they represent.
+5f The code ran great, it was in complete sentence of who is the California Assembly representative.
+35 The code ran great, the output gave a complete sentence of who is the California Assembly representative.
+wi The code ran great, it was in a complete sentence of who is the California Assembly representative.
+up The code ran great, but the code was just a name, nothing tells me who this person is.
+jj The code showed the correct output, but the output was just a name, there is nothing to say who this person is

@@ -1,0 +1,7 @@
+c6 The code is clear, concise, and follows the prompt instructions well, This program correctly handles the task. It imports sys, skips the script name, and prints the arguments in reverse. The code is overall clear and concise.
+kg This code works as expected, printing reversed arguments on a single line. It also handles cases with no arguments, which is a thoughtful addition. The code was  clear and concise.
+hz Code meets the prompt requirements well by using reversed() to print each argument in reverse order. This code also prints each argument on a new line instead of a single line.
+2w Code is nice but prints each argument in reverse order. Also prints each argument on a new line instead of a single line.
+hj Code structure is fine, but the logic would benefit from improvement. The code has comments that are helpful. The code has a mistake in the logic within the while loop, as it doesn’t handle the last element correctly. The code is more complex than needed. Simplifying it would improve readability.
+94 This script attempts to reorder arguments in reverse, but it applies a nested loop, which introduces alphabetic and numeric sorting rather than reversing. This is inconsistent with the prompt.
+dz simulates dice rolls rather than handling command-line arguments. Code was great but its the wrong assignment. 

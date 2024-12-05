@@ -1,0 +1,28 @@
+python3 j9.py
+The average number of people represented by a county supervisor in Los Angeles is 2002801    
+The average number of people represented by a county supervisor in San Francisco is 73544    
+
+python3 rx.py
+Los Angeles' average population per supervisor:  1921385
+San Francisco's average population per supervisor:  71680
+
+python3 6f.py
+The average number of people represented by a county supervisor in SF is: 73654
+The average number of people represented by a county supervisor in LA is: 1921385
+The average number of people represented by a county supervisor in SF and LA is: 651070      
+
+python3 rm.py
+The average number of people represented by the District 1 county supervisor in Los Angeles and San Francisco is: 1025200.5
+
+
+python3 6h.py
+In Los Angeles, each county supervisor represents approximately 759187.2 people.
+In San Francisco, each county supervisor represents approximately 71679.82 people.
+
+python3 ft.py
+In average, 2002801 of people are represented by a county supervisor in Los Angeles County.
+In average, 79451 of people are represented by a county supervisor in San Francisco County.
+
+python3 cj.py
+Average number of people represented by a supervisor in Los Angeles County: 2002801.8
+Average number of people represented by a supervisor in San Francisco County: 79451.36363636363

@@ -1,0 +1,43 @@
+4x.py
+The results are: Die 1 =  5 and Die 2 =  8609
+The sum of the results is  8614  and is NOT a multiple of 3...try again!
+
+65.py
+You got a 9 and 2442
+The sum is 2451 and it is multiple of 3
+
+yv.py
+A 9-sided die casted:  6
+A 9000-sided die casted:  3916
+The sum of the results is NOT a multiple of three
+
+5t.py
+Your nine-sided dice roll was a 5
+Your 9000 sided dice roll was a 7817
+The sum of your dice roll is 7822 which is not evenly divisible by 3
+
+z7.py
+The sum of 8 and 3494 is 3502.
+The sum is not a multiple of 3.
+
+mx.py
+You roll 9 on the 9-sided die & 8996 on the 9000-sided die.
+The sum of these rolls is NOT a multiple of three.
+
+7c 9 dice rolled  2  and the 9000 dice rolled  6514  which both summed up to be  6516 .
+
+
+
+7c This one nails it! The die rolls are clearly stated, followed by the sum, and it directly confirms that the sum is a multiple of three. The wording is concise and clear, giving exactly what’s needed.
+
+65 This output gets straight to the point. It shows both die rolls, calculates the sum, and confirms it’s a multiple of three. The direct phrasing makes it easy to follow and understand.
+
+4x The results are clearly laid out, with both die rolls, the sum, and whether it’s a multiple of three. It’s a bit more wordy with the "try again" phrase, but it adds a bit of personality without losing clarity.
+
+z7 You get the die results, the sum, and a direct statement about whether the sum is a multiple of three. The format works, but it’s very brief and could use a bit more structure for smoother reading.
+
+mx The die rolls and sum are clearly presented, with a direct statement about whether the sum is a multiple of three. The phrasing works but could be a little sharper for a more polished feel.
+
+5t While the output provides everything needed, the phrasing feels clunky ("...which is not evenly divisible by 3"). A more straightforward approach would make this clearer and quicker to process.
+
+yv This one falls short by not showing the sum, which is key to verifying whether the result is a multiple of three. It’s concise but misses out on essential details, making it the least effective.

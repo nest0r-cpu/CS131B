@@ -1,0 +1,29 @@
+/users/abrick/pr/131B/2856/qy.py
+    This is the percentage of the global population that has permanent representation on the UN Security Council: % 25.187499999999996
+/users/abrick/pr/131B/2856/83.py
+    Permanent global representation of the United Nations Security Council is 25.27%
+/users/abrick/pr/131B/2856/yk.py
+    The global population is 8179313850. Of That, the total population of countries who have permanent representation on the United Nations is 2045711678, which is 25.0107981612663% of the global population.
+Cited Sources:
+https://www.worldometers.info/world-population/
+https://main.un.org/securitycouncil/end/content/current-members
+/users/abrick/pr/131B/2856/zp.py
+Traceback (most recent call last):
+  File "/users/abrick/pr/131B/2856/zp.py", line 10, in <module>
+    unitednations_globalpop = permanent_member/global_population
+TypeError: unsupported operand type(s) for /: 'tuple' and 'tuple'
+/users/abrick/pr/131B/2856/qt.py
+The portion of the global population with permanent representation on the UNSC is: 25.22%
+/users/abrick/pr/131B/2856/fi.py
+25% of the world population is represented by the permanent members of the UN security council
+/users/abrick/pr/131B/2856/4d.py
+    The portion of the global population permanently represented by United Nations Security Council is : 25.149460649975126%
+    This is: 2030874226 people
+    
+yk The output of provided a great detailed information, it gave a rounded percentage & the number population. The output also lets the user know what the percentage is representing the global population represented by the UN Security Council.
+83 The code outputs is both clear and concise with the percentage of the global population represented. It is accurate and easy to understand.
+qt The program gives a straightforward answer, but the phrasing of the output could be more polished. Still, it accurately reports the percentage.
+4d It provides both the percentage and the actual number of people represented, which adds value. but, the phrasing is less smooth compared to others as well.
+fi The code gives the correct percentage, but the output is too brief and lacks the clarity of a full sentence. There’s no context
+qy The output includes a percentage, but the phrasing feels awkward and less professional than others.
+zp The code encounters an error, so it fails to provide any meaningful output because they put commas and python does not validate them. The issue stems from trying to perform a division on a tuple instead of numeric values. Also there are no sources. 
