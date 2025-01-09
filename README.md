@@ -1,4 +1,4 @@
-# Programming Fundamentals: Python (Course Code: 73031-931, Section: 131B)
+# Programming Fundamentals: Python 
 
 ### Description
 This repository contains assignments and projects completed for the Programming Fundamentals course in Python. The course covers core Python programming concepts, with a focus on object-oriented programming, mathematical operations, conditionals, data containers, iteration, exception handling, and working with text and files. Based on Charles Severance's *Python for Everybody* and other recommended resources, the assignments aim to build a solid foundation in Python programming fundamentals.
